@@ -1,0 +1,9 @@
+O(2^n) > O(n^2) > O(n log n) > O(n) > O(log n) > O(1) 
+
+O(n!) - factorial
+O(2^n) - Fibonacci
+O(n^2) - Duplicate check
+O(n log n) - Merge sort
+O(n) - Search Number (ทำงานเท่ากับจำนวน input)
+O(log n) - binary Search (division // 2)
+O(1) - even / oods
